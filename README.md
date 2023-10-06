@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sauravbajya
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Reactjs projects
+- 🌱 I’m currently learning asp .net
+- 💞️ I’m looking to collaborate on asp .net projects
 - 📫 How to reach me sauravbajya@gmail.com
 
 <!---
